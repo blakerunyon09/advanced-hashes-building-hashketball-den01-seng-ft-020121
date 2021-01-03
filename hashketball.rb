@@ -28,6 +28,7 @@ def game_hash
           :blocks => "",
           :slam_dunks => ""
         }
+      ]
     },
     :away => {
       :team_name => "Charlotte Hornet",
